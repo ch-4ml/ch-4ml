@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🎓 I'm currently in the [distributed & mobile computing lab at Ajou University](http://dmc.ajou.ac.kr/)<br>.
+🎓 I'm currently in the [distributed & mobile computing lab at Ajou University](http://dmc.ajou.ac.kr/).<br>
 🔭 I’m currently working on [Hyperledger Fabric performance evaluation using Hyperledger Caliper](https://github.com/hyperledger/caliper-benchmarks).<br>
 🌱 I’m currently learning self-sovereign identity using [Hyperledger Indy](https://hyperledger-indy.readthedocs.io/en/latest/).<br>
 
