@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🔭 I’m currently working on Hyperledger Fabric performance evaluation<br>
-🌱 I’m currently learning Hyperledger Indy
+🌱 I’m currently learning self-sovereign identity using Hyperledger Indy
 
 <div align=center> 
 
