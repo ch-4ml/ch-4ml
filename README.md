@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Hyperledger Fabric performance evaluation
-- 🌱 I’m currently learning Hyperledger Indy
+🔭 I’m currently working on Hyperledger Fabric performance evaluation
+🌱 I’m currently learning Hyperledger Indy
 
 <div align=center> 
 
