@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Hyperledger Fabric performance evaluation<br>
-🌱 I’m currently learning self-sovereign identity using Hyperledger Indy
+🔭 I’m currently working on [Hyperledger Fabric performance evaluation using Hyperledger Caliper](https://github.com/hyperledger/caliper-benchmarks)<br>
+🌱 I’m currently learning self-sovereign identity using [Hyperledger Indy](https://hyperledger-indy.readthedocs.io/en/latest/)
 
 <div align=center> 
 
