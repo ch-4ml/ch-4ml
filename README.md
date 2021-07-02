@@ -1,4 +1,4 @@
-[![ch-4ml's GitHub stats](https://github-readme-stats.vercel.app/api?username=ch-4ml)](https://github.com/anuraghazra/github-readme-stats)
+[![fetch's GitHub stats](https://github-readme-stats.vercel.app/api?username=ch-4ml)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
 
