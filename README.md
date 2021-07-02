@@ -1,4 +1,3 @@
-[![fetch's GitHub stats](https://github-readme-stats.vercel.app/api?username=ch-4ml)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
 
@@ -6,6 +5,8 @@
 🔭 I’m currently working on [Hyperledger Fabric performance evaluation using Hyperledger Caliper](https://github.com/hyperledger/caliper-benchmarks).<br>
 🌱 I’m currently learning self-sovereign identity using [Hyperledger Indy](https://hyperledger-indy.readthedocs.io/en/latest/).<br>
 👨‍🏫 I'm currently teaching Ethereum and Hyperledger Fabric.
+
+[![fetch's GitHub stats](https://github-readme-stats.vercel.app/api?username=ch-4ml)](https://github.com/anuraghazra/github-readme-stats)
 
 update...
 
