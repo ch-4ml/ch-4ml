@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hi there 👋
 
 🎓 I'm currently in the [distributed & mobile computing lab at Ajou University](http://dmc.ajou.ac.kr/).<br>
