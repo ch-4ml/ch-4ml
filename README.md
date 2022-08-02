@@ -1,12 +1,11 @@
-<style type="text/css"></style>
-
 ### Hi there 👋
 
 🎓 I'm currently in the [distributed & mobile computing lab at Ajou University](http://dmc.ajou.ac.kr/).<br>
 🔭 I’m currently working on [Hyperledger Fabric performance evaluation using Hyperledger Caliper](https://github.com/hyperledger/caliper-benchmarks).<br>
 👨‍🏫 I'm currently teaching Ethereum and Hyperledger Fabric.<br>
 🌱 I’m currently learning React.js for my new toy projects !!!
-
+<div align=center> 
+  
 ---
 
 [![fetch's GitHub stats](https://github-readme-stats.vercel.app/api?username=ch-4ml&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -20,7 +19,7 @@
 
 update...
 
-<div align=center> 
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fch-4ml&count_bg=%23C5F1FF&title_bg=%23DADADA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
