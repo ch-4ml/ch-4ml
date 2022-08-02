@@ -8,7 +8,7 @@
 
 ---
 
-[![fetch's GitHub stats](https://github-readme-stats.vercel.app/api?username=ch-4ml&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![fetch's GitHub stats](https://github-readme-stats.vercel.app/api?username=ch-4ml&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
