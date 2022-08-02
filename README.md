@@ -1,3 +1,4 @@
+<style type="text/css"></style>
 
 ### Hi there 👋
 
@@ -8,7 +9,12 @@
 
 ---
 
-[![fetch's GitHub stats](https://github-readme-stats.vercel.app/api?username=ch-4ml&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![fetch's GitHub stats](https://github-readme-stats.vercel.app/api?username=ch-4ml&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fetch)](https://solved.ac/fetch)|![mazandi profile](http://mazandi.herokuapp.com/api?handle=fetch&theme=warm)
+:-:|:-:
 
 ---
 
