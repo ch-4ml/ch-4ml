@@ -1,12 +1,6 @@
 <div align=center> 
   
 ### Hi there 👋
-
-🎓 I'm currently in the [distributed & mobile computing lab at Ajou University](http://dmc.ajou.ac.kr/).<br>
-🔭 I’m currently working on [Hyperledger Fabric performance evaluation using Hyperledger Caliper](https://github.com/hyperledger/caliper-benchmarks).<br>
-👨‍🏫 I'm currently teaching Ethereum and Hyperledger Fabric.<br>
-🌱 I’m currently learning React.js for my new toy projects !!!
-
   
 ---
 
