@@ -1,7 +1,6 @@
 ## 👋 Hi there!
 
-신뢰도 높은 시스템을 만드는 백엔드 개발자입니다.  
-[Resume](https://ch4mlws.notion.site/Chan-Park-3e52a23b5e1b4cfbbf825fa76e24867f?pvs=74)
+[신뢰도 높은 시스템을 만드는 백엔드 개발자입니다.](https://ch4mlws.notion.site/Chan-Park-3e52a23b5e1b4cfbbf825fa76e24867f?pvs=74)
 
 ### 🛠 Skills
 
